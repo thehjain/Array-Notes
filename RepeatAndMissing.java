@@ -42,6 +42,7 @@ void getTwoElements(int[] arr, int n) {
 	}
 
 	//And here we got our x and y
+	//This Question is present on geeksforgeeks
 
 }
 
