@@ -14,6 +14,9 @@
 
 //Below is the implementation of that solution
 
+//Also try to remember that in the second loop
+//we are starting it from end (right bottom corner) not start.
+
 public void setZeroes(int[][] matrix) {
 	boolean isCol = true;
 	int rows = matrix.length;
